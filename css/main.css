@@ -25,6 +25,7 @@ div, p{
 }
 form{
     padding-bottom: 25px;
+    height: 200px;
 }
 /******
  CLASS
@@ -54,9 +55,9 @@ form{
   ID
 ******/
 #mc_embed_signup{
-    display: inline;
-    width: 300px;
-    height: 200px;
+    display: flex;
+    flex-flow: column, nowrap;
+    justify-content: center;
     background-color: #F6F1EE;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
