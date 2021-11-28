@@ -1,0 +1,51 @@
+/**TAG**/
+body{
+    background-color: #F6F1EE;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14.5;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+label{
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: #703757;
+    font-weight: bold;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+}
+
+/**CLASS**/
+.mc-field-group{
+    padding: 10px;
+}
+.email{
+    margin-left: 10px;
+}
+
+
+.button{
+    background-color: #F6C270;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 50px;
+    border: 0px;
+    margin-left: 10px;
+}
+
+/**ID**/
+#mc_embed_signup{
+    display: inline;
+    width: 500px;
+    height: 200px;
+    background-color: #F6F1EE;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
