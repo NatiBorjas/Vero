@@ -46,6 +46,10 @@ padding-bottom: 25px;
 .negrita{
     font-weight: bold;
 }
+.optionalParent{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 /******
   ID
 ******/
