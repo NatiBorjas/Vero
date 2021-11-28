@@ -6,8 +6,11 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-size: 14.5;
     text-align: center;
+    line-height: 2;
     margin-left: 50px;
     margin-right: 50px;
+    height: 100%vh;
+    padding-top: 20px;
 }
 a{
     text-decoration: none;
@@ -20,7 +23,9 @@ a:link, a:visited{
 div, p{
     font-size: 14.5;
 }
-
+form{
+    padding-bottom: 25px;
+}
 /******
  CLASS
 ******/
@@ -51,4 +56,6 @@ div, p{
     background-color: #F6F1EE;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
