@@ -14,8 +14,8 @@ body{
 }
 a{
     text-decoration: none;
-    color: #703757;
     font-weight: bold;
+    color: black;
 }
 a:link, a:visited{
     text-decoration: none;
