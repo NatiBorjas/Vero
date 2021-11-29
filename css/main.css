@@ -55,8 +55,8 @@ padding-bottom: 25px;
   ID
 ******/
 #mc_embed_signup{
-    display: flex;
-    flex-flow: column, nowrap;
+    display: inline;
+    flex-direction: column;
     justify-content: center;
     background-color: #F6F1EE;
     font-family: 'Montserrat', sans-serif;
