@@ -23,9 +23,7 @@ a:link, a:visited{
 div, p{
     font-size: 14.5;
 }
-form{
-padding-bottom: 25px;
-}
+
 /******
  CLASS
 ******/
@@ -56,7 +54,6 @@ padding-bottom: 25px;
 ******/
 #mc_embed_signup{
     display: inline;
-    flex-direction: column;
     justify-content: center;
     background-color: #F6F1EE;
     font-family: 'Montserrat', sans-serif;
